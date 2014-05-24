@@ -22,6 +22,7 @@
         "APPLICATION_IDENTIFIER": "com.apportable.Spin", 
         "APPLICATION_NAME": "Spin", 
         "FEATURES": [
+            "opengles2", 
             "unspecified_orientation"
         ], 
         "LONG_VERSION": "1.0", 
@@ -145,7 +146,7 @@
             "type": "iquote"
         }, 
         {
-            "header_path": "/var/folders/mx/6dg83hl52kl6dtqx393dcf7h0000gp/T/tmppdR3RC/BUILT_PRODUCTS_DIR/include", 
+            "header_path": "/var/folders/sn/6x4lbsxj7pnd_874bnx2twg80000gp/T/tmptyHqa2/BUILT_PRODUCTS_DIR/include", 
             "type": "I"
         }, 
         {
@@ -153,11 +154,11 @@
             "type": "I"
         }, 
         {
-            "header_path": "/var/folders/mx/6dg83hl52kl6dtqx393dcf7h0000gp/T/tmppdR3RC/DERIVED_FILE_DIR/armv7", 
+            "header_path": "/var/folders/sn/6x4lbsxj7pnd_874bnx2twg80000gp/T/tmptyHqa2/DERIVED_FILE_DIR/armv7", 
             "type": "I"
         }, 
         {
-            "header_path": "/var/folders/mx/6dg83hl52kl6dtqx393dcf7h0000gp/T/tmppdR3RC/DERIVED_FILE_DIR", 
+            "header_path": "/var/folders/sn/6x4lbsxj7pnd_874bnx2twg80000gp/T/tmptyHqa2/DERIVED_FILE_DIR", 
             "type": "I"
         }
     ], 
@@ -206,7 +207,8 @@
     ], 
     "storyboards": [], 
     "type": "app", 
-    "version": "1", 
+    "version": "3", 
+    "xcdatamodels": [], 
     "xcode_project": "Spin.xcodeproj", 
     "xibs": [
         {
